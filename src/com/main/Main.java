@@ -8,6 +8,8 @@ public class Main {
 			System.out.println("El factorial de " + i + ", es " + factorial(i) + ".");
 
 		}
+		
+		System.out.println("hola");
 
 	} 
 
